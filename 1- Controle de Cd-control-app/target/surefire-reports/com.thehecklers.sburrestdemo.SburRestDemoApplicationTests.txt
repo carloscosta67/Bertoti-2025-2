@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.thehecklers.sburrestdemo.SburRestDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.293 s - in com.thehecklers.sburrestdemo.SburRestDemoApplicationTests
